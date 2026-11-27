@@ -1,4 +1,4 @@
-package com.quvvxx.hexagonalpost.post.adapter.out.persistent;
+package com.quvvxx.hexagonalpost.post.adapter.out.persistence;
 
 import jakarta.persistence.*;
 import lombok.AccessLevel;

@@ -1,4 +1,4 @@
-package com.quvvxx.hexagonalpost.post.port.out;
+package com.quvvxx.hexagonalpost.post.application.port.out;
 
 import com.quvvxx.hexagonalpost.post.domain.Post;
 
